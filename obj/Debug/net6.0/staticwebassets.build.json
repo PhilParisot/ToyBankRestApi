@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "VlbT0oriDWOTDziCtY3rWTa2bKGBFVu2RDIbWXaHHko=",
+  "Source": "ToyBankRestApi",
+  "BasePath": "_content/ToyBankRestApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
